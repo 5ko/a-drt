@@ -1,3 +1,12 @@
+/**
+ * Created on 05/03/16 by Petko YOTOV www.pmwiki.org/petko
+ * Copyright (c) 2016 Petko YOTOV All rights reserved
+ * Commissioned by and developed with Dr Toolbox who are granted
+ * worldwide, perpetual, irrevocable, royalty-free permission,
+ * to use, modify, copy, publish, sub-licence and sell their copies
+ * of the software as long as their “open source licences” are respected
+ */
+
 package com.dr_toolbox.drtoolbox;
 
 import android.app.Activity;
